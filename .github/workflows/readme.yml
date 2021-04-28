@@ -6,7 +6,7 @@ on:
     - cron: '0 0 */1 * *'
   push:
     branches:
-      - 'master'
+      - 'main'
   pull_request:
     branches:
       - 'main'
@@ -30,6 +30,6 @@ jobs:
         if: github.event_name != 'pull_request'
         with:
           commit_message: 'Update generated README'
-          branch: master
+          branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
