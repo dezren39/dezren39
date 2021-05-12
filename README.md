@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (1 month ago)
 - [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) - Github action that updates a PR base brach from a protected branch to a default branch. (7 months ago)
 - [twitter-base/tweet](https://github.com/twitter-base/tweet) - to send tweet, reply to tweet, input N text and it is threaded with words and emoji chunked properly according to Twitter documentation. never break words, always make a new tweet over breaking words. Certain malformed unicode still breaks :/.. (7 months ago)
-- [algolia/chunk-text](https://github.com/algolia/chunk-text) - 🔪 chunk/split a string by length without cutting/truncating words. (7 months ago)
+- [algolia/chunk-text](https://github.com/algolia/chunk-text) - 🔪 chunk/split a string by length without cutting/truncating words. (8 months ago)
 - [SpongeScribe/SpongeScribeBot](https://github.com/SpongeScribe/SpongeScribeBot) - strangetext transcription, main code at twitter-base/reply-bot plan to split out spongescribe here in a bit (8 months ago)
 
 #### 👨‍💻 Repositories I created recently
