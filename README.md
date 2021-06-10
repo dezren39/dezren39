@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) - Github action that updates a PR base brach from a protected branch to a default branch. (8 months ago)
 - [twitter-base/tweet](https://github.com/twitter-base/tweet) - to send tweet, reply to tweet, input N text and it is threaded with words and emoji chunked properly according to Twitter documentation. never break words, always make a new tweet over breaking words. Certain malformed unicode still breaks :/.. (8 months ago)
 - [algolia/chunk-text](https://github.com/algolia/chunk-text) - 🔪 chunk/split a string by length without cutting/truncating words. (8 months ago)
-- [SpongeScribe/SpongeScribeBot](https://github.com/SpongeScribe/SpongeScribeBot) - strangetext transcription, main code at twitter-base/reply-bot plan to split out spongescribe here in a bit (8 months ago)
+- [SpongeScribe/SpongeScribeBot](https://github.com/SpongeScribe/SpongeScribeBot) - strangetext transcription, main code at twitter-base/reply-bot plan to split out spongescribe here in a bit (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [sindresorhus/string-length](https://github.com/sindresorhus/string-length) ([v5.0.0](https://github.com/sindresorhus/string-length/releases/tag/v5.0.0), 4 days ago) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes
+- [sindresorhus/string-length](https://github.com/sindresorhus/string-length) ([v5.0.0](https://github.com/sindresorhus/string-length/releases/tag/v5.0.0), 5 days ago) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 8 months ago) - robot go reply, be nice :|
 - [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) ([v1.1](https://github.com/a-b-r-o-w-n/check-base-branch-action/releases/tag/v1.1), 8 months ago) - Github action that updates a PR base brach from a protected branch to a default branch.
 - [twitter-base/tweet](https://github.com/twitter-base/tweet) ([v1.2.0](https://github.com/twitter-base/tweet/releases/tag/v1.2.0), 8 months ago) - to send tweet, reply to tweet, input N text and it is threaded with words and emoji chunked properly according to Twitter documentation. never break words, always make a new tweet over breaking words. Certain malformed unicode still breaks :/..
