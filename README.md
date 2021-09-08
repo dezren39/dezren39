@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) - Github action that updates a PR base brach from a protected branch to a default branch. (11 months ago)
 - [twitter-base/tweet](https://github.com/twitter-base/tweet) - to send tweet, reply to tweet, input N text and it is threaded with words and emoji chunked properly according to Twitter documentation. never break words, always make a new tweet over breaking words. Certain malformed unicode still breaks :/.. (11 months ago)
 - [algolia/chunk-text](https://github.com/algolia/chunk-text) - 🔪 chunk/split a string by length without cutting/truncating words. (11 months ago)
-- [sleep-atomic/sleep-atomic](https://github.com/sleep-atomic/sleep-atomic) - sometimes code needs to take a nap and sometimes you want to be precise about how long  (11 months ago)
+- [sleep-atomic/sleep-atomic](https://github.com/sleep-atomic/sleep-atomic) - sometimes code needs to take a nap and sometimes you want to be precise about how long  (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
