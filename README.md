@@ -21,4 +21,3 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 11 months ago) - robot go reply, be nice :|
 - [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) ([v1.1](https://github.com/a-b-r-o-w-n/check-base-branch-action/releases/tag/v1.1), 1 year ago) - Github action that updates a PR base brach from a protected branch to a default branch.
-- [twitter-base/tweet](https://github.com/twitter-base/tweet) ([v1.2.0](https://github.com/twitter-base/tweet/releases/tag/v1.2.0), 1 year ago) - to send tweet, reply to tweet, input N text and it is threaded with words and emoji chunked properly according to Twitter documentation. never break words, always make a new tweet over breaking words. Certain malformed unicode still breaks :/..
