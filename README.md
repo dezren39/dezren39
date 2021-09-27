@@ -16,4 +16,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 11 months ago) - robot go reply, be nice :|
+- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 1 year ago) - robot go reply, be nice :|
