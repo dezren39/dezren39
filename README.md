@@ -4,7 +4,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (6 months ago)
-- [a-b-r-o-w-n/check-base-branch-action](https://github.com/a-b-r-o-w-n/check-base-branch-action) - Github action that updates a PR base brach from a protected branch to a default branch. (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
