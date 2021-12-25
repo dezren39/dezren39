@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (8 months ago)
+- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
