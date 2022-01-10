@@ -3,7 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 day ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 days ago)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 days ago)
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -16,5 +17,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rs/curlie](https://github.com/rs/curlie) ([v1.6.7](https://github.com/rs/curlie/releases/tag/v1.6.7), 1 month ago) - The power of curl, the ease of use of httpie.
+- [rs/curlie](https://github.com/rs/curlie) ([v1.6.7](https://github.com/rs/curlie/releases/tag/v1.6.7), 2 months ago) - The power of curl, the ease of use of httpie.
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.12](https://github.com/jesseduffield/lazydocker/releases/tag/v0.12), 9 months ago) - The lazier way to manage everything docker
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 1 year ago) - robot go reply, be nice :|
