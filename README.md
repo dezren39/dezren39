@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 days ago)
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (3 days ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (4 days ago)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (4 days ago)
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
