@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/chiploxide](https://github.com/dezren39/chiploxide) -  (3 weeks ago)
+- [dezren39/chiploxide](https://github.com/dezren39/chiploxide) -  (1 day ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 month ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (1 month ago)
 - [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (10 months ago)
