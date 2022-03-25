@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 months ago)
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (11 months ago)
+- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
