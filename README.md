@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (3 weeks ago)
+- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (4 weeks ago)
 - [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 months ago)
@@ -21,4 +21,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [rs/curlie](https://github.com/rs/curlie) ([v1.6.7](https://github.com/rs/curlie/releases/tag/v1.6.7), 4 months ago) - The power of curl, the ease of use of httpie.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.12](https://github.com/jesseduffield/lazydocker/releases/tag/v0.12), 1 year ago) - The lazier way to manage everything docker
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 1 year ago) - robot go reply, be nice :|
+- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) ([v1.5.1](https://github.com/twitter-base/reply-bot/releases/tag/v1.5.1), 2 years ago) - robot go reply, be nice :|
