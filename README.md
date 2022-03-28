@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (4 weeks ago)
+- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (1 month ago)
 - [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 months ago)
