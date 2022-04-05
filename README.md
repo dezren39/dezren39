@@ -7,7 +7,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (1 month ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 months ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (2 months ago)
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot) - robot go reply, be nice :| (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,5 +18,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rs/curlie](https://github.com/rs/curlie) ([v1.6.7](https://github.com/rs/curlie/releases/tag/v1.6.7), 4 months ago) - The power of curl, the ease of use of httpie.
+- [rs/curlie](https://github.com/rs/curlie) ([v1.6.9](https://github.com/rs/curlie/releases/tag/v1.6.9), 1 day ago) - The power of curl, the ease of use of httpie.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.12](https://github.com/jesseduffield/lazydocker/releases/tag/v0.12), 1 year ago) - The lazier way to manage everything docker
