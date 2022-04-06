@@ -18,5 +18,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rs/curlie](https://github.com/rs/curlie) ([v1.6.9](https://github.com/rs/curlie/releases/tag/v1.6.9), 1 day ago) - The power of curl, the ease of use of httpie.
+- [rs/curlie](https://github.com/rs/curlie) ([v1.6.9](https://github.com/rs/curlie/releases/tag/v1.6.9), 2 days ago) - The power of curl, the ease of use of httpie.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.12](https://github.com/jesseduffield/lazydocker/releases/tag/v0.12), 1 year ago) - The lazier way to manage everything docker
