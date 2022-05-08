@@ -6,8 +6,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [pschanely/contractual-semver](https://github.com/pschanely/contractual-semver) - Contractual Semver (3 weeks ago)
 - [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (2 months ago)
 - [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (2 months ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 months ago)
-- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (3 months ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (4 months ago)
+- [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
