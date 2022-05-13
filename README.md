@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [pschanely/contractual-semver](https://github.com/pschanely/contractual-semver) - Contractual Semver (4 weeks ago)
+- [pschanely/contractual-semver](https://github.com/pschanely/contractual-semver) - Contractual Semver (1 month ago)
 - [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (2 months ago)
-- [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (2 months ago)
+- [developing-today/chip](https://github.com/developing-today/chip) - mystery, challenges, games, an ide 👁️‍🗨️ (3 months ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (4 months ago)
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie. (4 months ago)
 
@@ -19,5 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.18.1](https://github.com/jesseduffield/lazydocker/releases/tag/v0.18.1), 1 day ago) - The lazier way to manage everything docker
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.18.1](https://github.com/jesseduffield/lazydocker/releases/tag/v0.18.1), 2 days ago) - The lazier way to manage everything docker
 - [rs/curlie](https://github.com/rs/curlie) ([v1.6.9](https://github.com/rs/curlie/releases/tag/v1.6.9), 1 month ago) - The power of curl, the ease of use of httpie.
