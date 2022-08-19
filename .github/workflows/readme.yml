@@ -19,14 +19,14 @@ jobs:
         name: Checkout
         uses: actions/checkout@v2
       -
-        uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
         with:
           template: templates/README.md.tpl
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       -
-        uses: stefanzweifel/git-auto-commit-action@be7095c202abcf573b09f20541e0ee2f6a3a9d9b
+        uses: stefanzweifel/git-auto-commit-action@dce7e85096193516db2ae686bd562faf5bc7f4ea
         if: github.event_name != 'pull_request'
         with:
           commit_message: 'Update generated README'
