@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (3 days ago)
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (4 days ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (1 month ago)
 - [developing-today/rtr7-install](https://github.com/developing-today/rtr7-install) -  (2 months ago)
 - [pschanely/contractual-semver](https://github.com/pschanely/contractual-semver) - Contractual Semver (4 months ago)
