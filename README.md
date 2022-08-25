@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (1 month ago)
 - [developing-today/rtr7-install](https://github.com/developing-today/rtr7-install) -  (2 months ago)
 - [pschanely/contractual-semver](https://github.com/pschanely/contractual-semver) - Contractual Semver (4 months ago)
-- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (5 months ago)
+- [developing-today/rom](https://github.com/developing-today/rom) - frontend of rom 📇🕸️ (6 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
