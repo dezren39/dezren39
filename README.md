@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/static](https://github.com/developing-today/static) -  (1 day ago)
+- [developing-today/static](https://github.com/developing-today/static) -  (2 days ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (3 weeks ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (2 months ago)
 - [developing-today/rtr7-install](https://github.com/developing-today/rtr7-install) -  (3 months ago)
