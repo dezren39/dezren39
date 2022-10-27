@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/org](https://github.com/dezren39/org) -  (1 day ago)
+- [dezren39/org](https://github.com/dezren39/org) -  (2 days ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (1 month ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (2 months ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (3 months ago)
@@ -19,5 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.19.0](https://github.com/jesseduffield/lazydocker/releases/tag/v0.19.0), 1 week ago) - The lazier way to manage everything docker
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ([v0.19.0](https://github.com/jesseduffield/lazydocker/releases/tag/v0.19.0), 2 weeks ago) - The lazier way to manage everything docker
 - [rs/curlie](https://github.com/rs/curlie) ([v1.6.9](https://github.com/rs/curlie/releases/tag/v1.6.9), 6 months ago) - The power of curl, the ease of use of httpie.
