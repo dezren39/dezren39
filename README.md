@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/org](https://github.com/dezren39/org) -  (2 days ago)
+- [dezren39/org](https://github.com/dezren39/org) -  (3 days ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (1 month ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (2 months ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (3 months ago)
