@@ -5,7 +5,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [dezren39/org](https://github.com/dezren39/org) -  (2 weeks ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (3 months ago)
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (3 months ago)
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (4 months ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (5 months ago)
 - [developing-today/rtr7-install](https://github.com/developing-today/rtr7-install) -  (6 months ago)
 
