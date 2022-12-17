@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/org](https://github.com/dezren39/org) -  (2 weeks ago)
+- [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (1 day ago)
+- [dezren39/org](https://github.com/dezren39/org) -  (3 weeks ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (3 months ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (4 months ago)
 - [aaronjanse/gcat](https://github.com/aaronjanse/gcat) - Like `cat` but for gemini (5 months ago)
-- [developing-today/rtr7-install](https://github.com/developing-today/rtr7-install) -  (6 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
