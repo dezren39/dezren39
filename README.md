@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/org](https://github.com/dezren39/org) -  (3 weeks ago)
+- [dezren39/org](https://github.com/dezren39/org) -  (4 weeks ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (1 month ago)
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (3 months ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (6 months ago)
