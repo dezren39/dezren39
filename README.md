@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/org](https://github.com/dezren39/org) -  (1 month ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (2 months ago)
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (3 months ago)
-- [developing-today/static](https://github.com/developing-today/static) -  (6 months ago)
+- [developing-today/static](https://github.com/developing-today/static) -  (7 months ago)
 - [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (7 months ago)
 
 #### 👨‍💻 Repositories I created recently
