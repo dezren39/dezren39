@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (1 month ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (2 months ago)
 - [nostr-protocol/nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities (4 months ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (7 months ago)
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites (8 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,4 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
+- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 1 day ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 2 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
