@@ -19,5 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 6 days ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 2 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
