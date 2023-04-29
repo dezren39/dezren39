@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (3 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
-- [developing-today/.github](https://github.com/developing-today/.github) -  (5 days ago)
+- [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (4 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
+- [developing-today/.github](https://github.com/developing-today/.github) -  (6 days ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (2 months ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (2 months ago)
 
