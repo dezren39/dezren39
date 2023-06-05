@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (1 month ago)
 - [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (1 month ago)
 - [developing-today/.github](https://github.com/developing-today/.github) -  (1 month ago)
-- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (3 months ago)
+- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -20,4 +20,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 🚀 Latest releases I've contributed to
 
 - [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 1 month ago)
-- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 3 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
+- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 4 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
