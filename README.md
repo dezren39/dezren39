@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/nvim](https://github.com/developing-today/nvim) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (3 months ago)
 - [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (3 months ago)
 - [developing-today/.github](https://github.com/developing-today/.github) -  (3 months ago)
-- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34; (6 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,5 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 3 months ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 4 months ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 6 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
