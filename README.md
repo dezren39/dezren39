@@ -4,10 +4,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (4 days ago)
+- [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (5 days ago)
 - [developing-today/nvim](https://github.com/developing-today/nvim) -  (1 week ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (3 months ago)
-- [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (3 months ago)
+- [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
