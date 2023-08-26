@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (1 week ago)
 - [developing-today/nvim](https://github.com/developing-today/nvim) -  (1 week ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (3 months ago)
