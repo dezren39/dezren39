@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
+- [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages (6 days ago)
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (1 week ago)
-- [developing-today/nvim](https://github.com/developing-today/nvim) -  (1 week ago)
+- [developing-today/nvim](https://github.com/developing-today/nvim) -  (2 weeks ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (3 months ago)
-- [facebookincubator/reindeer](https://github.com/facebookincubator/reindeer) - Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules. (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
