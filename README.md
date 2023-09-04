@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages (1 week ago)
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (2 weeks ago)
-- [developing-today/nvim](https://github.com/developing-today/nvim) -  (2 weeks ago)
+- [developing-today/nvim](https://github.com/developing-today/nvim) -  (3 weeks ago)
 - [dezren39/org](https://github.com/dezren39/org) -  (4 months ago)
 
 #### 👨‍💻 Repositories I created recently
