@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (6 days ago)
 - [uiua-lang/uiua-vscode](https://github.com/uiua-lang/uiua-vscode) - Uiua language client extension for VSCode (1 week ago)
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages (1 month ago)
 - [mitchellh/zig-overlay](https://github.com/mitchellh/zig-overlay) - Nix flake for the Zig compiler. (1 month ago)
