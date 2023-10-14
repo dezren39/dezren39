@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (1 week ago)
 - [uiua-lang/uiua-vscode](https://github.com/uiua-lang/uiua-vscode) - Uiua language client extension for VSCode (2 weeks ago)
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages (1 month ago)
@@ -19,5 +19,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 5 months ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 6 months ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 8 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
