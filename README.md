@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (2 weeks ago)
 - [uiua-lang/uiua-vscode](https://github.com/uiua-lang/uiua-vscode) - Uiua language client extension for VSCode (3 weeks ago)
 - [vlinkz/nix-software-center](https://github.com/vlinkz/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages (1 month ago)
