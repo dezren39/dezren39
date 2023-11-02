@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
-- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
+- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (2 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
 - [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (1 month ago)
 - [uiua-lang/uiua-vscode](https://github.com/uiua-lang/uiua-vscode) - Uiua language client extension for VSCode (1 month ago)
 
@@ -21,4 +21,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 4 weeks ago) - A minimal, colorful Go logging library 🪵
 - [developing-today/code](https://github.com/developing-today/code) ([v1.0.0](https://github.com/developing-today/code/releases/tag/v1.0.0), 6 months ago)
-- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 8 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
+- [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 9 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
