@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
-- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (4 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
+- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (5 days ago)
 - [developing-today-forks/nixvim-flake](https://github.com/developing-today-forks/nixvim-flake) -  (1 month ago)
 - [uiua-lang/uiua-vscode](https://github.com/uiua-lang/uiua-vscode) - Uiua language client extension for VSCode (1 month ago)
 
