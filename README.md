@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [developing-today/cli](https://github.com/developing-today/cli) -  (1 day ago)
-- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) -  (1 day ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 days ago)
-- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (1 week ago)
+- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) -  (2 days ago)
+- [developing-today/cli](https://github.com/developing-today/cli) -  (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,6 +19,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([v1.1.1](https://github.com/developing-today/code/releases/tag/v1.1.1), 1 day ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.2.5](https://github.com/charmbracelet/log/releases/tag/v0.2.5), 1 month ago) - A minimal, colorful Go logging library 🪵
+- [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 day ago) - A minimal, colorful Go logging library 🪵
+- [developing-today/code](https://github.com/developing-today/code) ([v1.2.4](https://github.com/developing-today/code/releases/tag/v1.2.4), 1 day ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 9 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
