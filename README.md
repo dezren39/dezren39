@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) -  (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 days ago)
+- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) - use the official bucket instead (1 day ago)
+- [developing-today/cli](https://github.com/developing-today/cli) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (3 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
-- [developing-today/cli](https://github.com/developing-today/cli) -  (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,6 +19,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 days ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 3 days ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.0](https://github.com/charmbracelet/log/releases/tag/v0.3.0), 1 week ago) - A minimal, colorful Go logging library 🪵
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 9 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
