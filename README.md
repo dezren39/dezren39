@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (2 weeks ago)
 - [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) - use the official bucket instead (2 weeks ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 weeks ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (3 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -20,5 +20,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 🚀 Latest releases I've contributed to
 
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 1 week ago) - A minimal, colorful Go logging library 🪵
-- [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 weeks ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 3 weeks ago)
 - [developing-today/MastodonFriendCheck](https://github.com/developing-today/MastodonFriendCheck) ([1.4.0](https://github.com/developing-today/MastodonFriendCheck/releases/tag/1.4.0), 10 months ago) - If you follow a Mastodon Web Profile, it changes &#34;Remote Follow&#34; to &#34;Following&#34;
