@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (6 days ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (3 weeks ago)
-- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) - use the official bucket instead (3 weeks ago)
+- [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) - use the official bucket instead (4 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
