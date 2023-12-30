@@ -5,7 +5,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace (1 week ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 week ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 weeks ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (1 month ago)
 - [developing-today-forks/scoop-charmbracelet](https://github.com/developing-today-forks/scoop-charmbracelet) - use the official bucket instead (1 month ago)
 
