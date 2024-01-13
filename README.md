@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (4 days ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (5 days ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (6 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (1 week ago)
 
@@ -23,4 +23,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 1 month ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 2 months ago) - Make SSH apps, just like that! 💫
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) ([v5.0.2](https://github.com/peter-evans/create-pull-request/releases/tag/v5.0.2), 7 months ago) - A GitHub action to create a pull request for changes to your repository in the actions workspace
-- [knadh/koanf](https://github.com/knadh/koanf) ([v2.0.1](https://github.com/knadh/koanf/releases/tag/v2.0.1), 8 months ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [knadh/koanf](https://github.com/knadh/koanf) ([v2.0.1](https://github.com/knadh/koanf/releases/tag/v2.0.1), 9 months ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
