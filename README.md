@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/shepard](https://github.com/developing-today/shepard) -  (2 days ago)
+- [developing-today/shepard](https://github.com/developing-today/shepard) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (2 weeks ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 weeks ago)
