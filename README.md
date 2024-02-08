@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 week ago)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (1 week ago)
 - [developing-today/shepard](https://github.com/developing-today/shepard) - a space game. (1 week ago)
@@ -19,8 +19,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 1 day ago) - Make SSH apps, just like that! 💫
-- [knadh/koanf](https://github.com/knadh/koanf) ([v2.1.0](https://github.com/knadh/koanf/releases/tag/v2.1.0), 1 day ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.3.1](https://github.com/charmbracelet/wish/releases/tag/v1.3.1), 2 days ago) - Make SSH apps, just like that! 💫
+- [knadh/koanf](https://github.com/knadh/koanf) ([v2.1.0](https://github.com/knadh/koanf/releases/tag/v2.1.0), 2 days ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) ([v6.0.0](https://github.com/peter-evans/create-pull-request/releases/tag/v6.0.0), 1 week ago) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.3.1](https://github.com/charmbracelet/log/releases/tag/v0.3.1), 2 months ago) - A minimal, colorful Go logging library 🪵
 - [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 months ago)
