@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 weeks ago)
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) - Prometheus middleware for Wish (2 weeks ago)
 - [developing-today/shepard](https://github.com/developing-today/shepard) - a space game. (2 weeks ago)
