@@ -6,8 +6,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [centrifugal/centrifugal.dev](https://github.com/centrifugal/centrifugal.dev) - Documentation site for Centrifugo (2 weeks ago)
-- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (2 weeks ago)
+- [centrifugal/centrifugal.dev](https://github.com/centrifugal/centrifugal.dev) - Documentation site for Centrifugo (3 weeks ago)
+- [charmbracelet/scoop-bucket](https://github.com/charmbracelet/scoop-bucket) - Charmbracelet Scoop Bucket (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
