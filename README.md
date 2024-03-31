@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [centrifugal/centrifugal.dev](https://github.com/centrifugal/centrifugal.dev) - Documentation site for Centrifugo (1 month ago)
