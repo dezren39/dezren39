@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (3 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 weeks ago)
 - [centrifugal/centrifugal.dev](https://github.com/centrifugal/centrifugal.dev) - Documentation site for Centrifugo (1 month ago)
@@ -19,8 +19,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 3 days ago) - Make SSH apps, just like that! 💫
-- [knadh/koanf](https://github.com/knadh/koanf) ([v2.1.1](https://github.com/knadh/koanf/releases/tag/v2.1.1), 3 days ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.0](https://github.com/charmbracelet/wish/releases/tag/v1.4.0), 4 days ago) - Make SSH apps, just like that! 💫
+- [knadh/koanf](https://github.com/knadh/koanf) ([v2.1.1](https://github.com/knadh/koanf/releases/tag/v2.1.1), 4 days ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.3.3](https://github.com/gowebly/gowebly/releases/tag/v2.3.3), 2 weeks ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js and the most popular CSS frameworks on the frontend.
 - [charmbracelet/log](https://github.com/charmbracelet/log) ([v0.4.0](https://github.com/charmbracelet/log/releases/tag/v0.4.0), 2 weeks ago) - A minimal, colorful Go logging library 🪵
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) ([v6.0.2](https://github.com/peter-evans/create-pull-request/releases/tag/v6.0.2), 3 weeks ago) - A GitHub action to create a pull request for changes to your repository in the actions workspace
