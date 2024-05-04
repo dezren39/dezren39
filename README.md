@@ -7,7 +7,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (3 weeks ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (3 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 month ago)
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (1 month ago)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
