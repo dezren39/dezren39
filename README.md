@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 month ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (2 months ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 months ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 months ago)
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (3 months ago)
 
 #### 👨‍💻 Repositories I created recently
