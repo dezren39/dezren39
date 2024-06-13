@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
+- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (2 days ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainer=@GaetanLepage, @traxys, @mattsturgeon] (5 days ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (1 month ago)
 - [developing-today/cli](https://github.com/developing-today/cli) -  (2 months ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
