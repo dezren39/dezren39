@@ -4,10 +4,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes (1 day ago)
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes (2 days ago)
 - [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It&#39;s also for Python and JavaScript users who avoid shell! (2 weeks ago)
 - [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (3 weeks ago)
-- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (4 weeks ago)
+- [Soypete/Golang_tutorial_zero_to_hero](https://github.com/Soypete/Golang_tutorial_zero_to_hero) - This is a tutorial, course, or walk through to teach first time developers how to use golang (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
