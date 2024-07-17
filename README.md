@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [oilshell/oil](https://github.com/oilshell/oil) - Oils is our upgrade path from bash to a better language and runtime.  It&#39;s also for Python and JavaScript users who avoid shell! (3 weeks ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (3 weeks ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) -  (4 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
