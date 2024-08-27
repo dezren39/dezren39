@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/zulip-archive](https://github.com/developing-today/zulip-archive) -  (1 day ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (2 days ago)
-- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote (2 days ago)
+- [developing-today/zulip-archive](https://github.com/developing-today/zulip-archive) -  (2 days ago)
+- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote (3 days ago)
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
