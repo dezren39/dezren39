@@ -4,10 +4,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today-forks/nixpkgs](https://github.com/developing-today-forks/nixpkgs) -  (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
 - [developing-today/zulip-archive](https://github.com/developing-today/zulip-archive) -  (1 week ago)
-- [srid/emanote-template](https://github.com/srid/emanote-template) - Notebook template for Emanote (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
