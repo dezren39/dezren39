@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (2 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (3 days ago)
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (4 days ago)
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (2 weeks ago)
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) - Ziti SSH (2 weeks ago)
 
