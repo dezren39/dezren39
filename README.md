@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (6 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (1 week ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 week ago)
-- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (2 weeks ago)
-- [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) - Ziti SSH (2 weeks ago)
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (3 weeks ago)
+- [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) - Ziti SSH (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,8 +19,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 2 days ago) - A complete text editor for your terminal.
+- [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 3 days ago) - A complete text editor for your terminal.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) ([v7.0.5](https://github.com/peter-evans/create-pull-request/releases/tag/v7.0.5), 1 week ago) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.10](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.10), 2 weeks ago) - Ziti SSH
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.6.7](https://github.com/gowebly/gowebly/releases/tag/v2.6.7), 2 weeks ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.6.7](https://github.com/gowebly/gowebly/releases/tag/v2.6.7), 3 weeks ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 3 weeks ago) - Make SSH apps, just like that! 💫
