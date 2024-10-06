@@ -26,7 +26,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       -
-        uses: stefanzweifel/git-auto-commit-action@a0873a0795991933fedcac591b8736fa2c13d183
+        uses: stefanzweifel/git-auto-commit-action@050015d40644de3e8d2365687c1fbc235352bcff
         if: github.event_name != 'pull_request'
         with:
           commit_message: 'Update generated README'
