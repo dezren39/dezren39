@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (3 weeks ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (3 weeks ago)
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (1 month ago)
