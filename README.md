@@ -3,19 +3,19 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 days ago)
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (4 weeks ago)
-- [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal. (1 month ago)
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) - Ziti SSH (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [dezren39/nix](https://github.com/dezren39/nix)
 - [dezren39/zettel](https://github.com/dezren39/zettel)
 - [dezren39/org](https://github.com/dezren39/org)
 - [dezren39/rust](https://github.com/dezren39/rust)
 - [dezren39/for-loop](https://github.com/dezren39/for-loop)
-- [dezren39/HB-DRM-free-bulk-downloader-helper](https://github.com/dezren39/HB-DRM-free-bulk-downloader-helper) - because re-downloading all your humble bundles is a recipe for an RSI injury and this made it even easier for me than the HB downloader by itself.
 
 #### 🚀 Latest releases I've contributed to
 
