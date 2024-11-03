@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 week ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (5 days ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 weeks ago)
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (1 month ago)
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) - Ziti SSH (1 month ago)
 
@@ -23,4 +23,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 1 week ago) - Ziti SSH
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 1 month ago) - A complete text editor for your terminal.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) ([v7.0.5](https://github.com/peter-evans/create-pull-request/releases/tag/v7.0.5), 1 month ago) - A GitHub action to create a pull request for changes to your repository in the actions workspace
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 month ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 2 months ago) - Make SSH apps, just like that! 💫
