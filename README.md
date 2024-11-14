@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (3 weeks ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (3 weeks ago)
