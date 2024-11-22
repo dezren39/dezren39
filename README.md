@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (6 days ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 month ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 month ago)
-- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (1 month ago)
+- [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes (2 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
