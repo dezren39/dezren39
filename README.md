@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [krebs/nether](https://github.com/krebs/nether) - zerotier network configuration as a NixOS flake (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [krebs/nether](https://github.com/krebs/nether) - zerotier network configuration as a NixOS flake (2 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (1 month ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 month ago)
 
