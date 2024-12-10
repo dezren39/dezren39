@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.7.0](https://github.com/gowebly/gowebly/releases/tag/v2.7.0), 1 week ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.7.0](https://github.com/gowebly/gowebly/releases/tag/v2.7.0), 2 weeks ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [knadh/koanf](https://github.com/knadh/koanf) ([v2.1.2](https://github.com/knadh/koanf/releases/tag/v2.1.2), 1 month ago) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 1 month ago) - Ziti SSH
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 2 months ago) - A complete text editor for your terminal.
