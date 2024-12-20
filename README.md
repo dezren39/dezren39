@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (6 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (1 week ago)
-- [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity Photo, Designer, and Publisher packaged with Nix (2 weeks ago)
+- [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity Photo, Designer, and Publisher packaged with Nix (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
