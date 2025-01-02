@@ -4,10 +4,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (1 week ago)
+- [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
-- [developing-today/static](https://github.com/developing-today/static) -  (2 weeks ago)
+- [developing-today/static](https://github.com/developing-today/static) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.8.0](https://github.com/charmbracelet/promwish/releases/tag/v0.8.0), 2 weeks ago) - Prometheus middleware for Wish
+- [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.8.0](https://github.com/charmbracelet/promwish/releases/tag/v0.8.0), 3 weeks ago) - Prometheus middleware for Wish
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 3 weeks ago) - Make SSH apps, just like that! 💫
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 3 weeks ago) - NixOS-like services for Nix flakes
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.7.0](https://github.com/gowebly/gowebly/releases/tag/v2.7.0), 1 month ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
