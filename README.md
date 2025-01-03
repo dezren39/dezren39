@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 weeks ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
