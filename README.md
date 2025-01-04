@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
 - [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (3 weeks ago)
-- [developing-today/static](https://github.com/developing-today/static) -  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
