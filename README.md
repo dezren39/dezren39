@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (3 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (4 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 week ago)
 - [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (3 weeks ago)
 
