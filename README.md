@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (4 days ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (1 week ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 weeks ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -23,4 +23,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.11](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.11), 1 month ago) - The hyprland cursor format, library and utilities.
 - [charmbracelet/promwish](https://github.com/charmbracelet/promwish) ([v0.8.0](https://github.com/charmbracelet/promwish/releases/tag/v0.8.0), 1 month ago) - Prometheus middleware for Wish
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 1 month ago) - NixOS-like services for Nix flakes
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.7.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.7.1), 1 month ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.7.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.7.1), 2 months ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
