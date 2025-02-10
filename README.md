@@ -4,9 +4,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (2 weeks ago)
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (4 weeks ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (3 weeks ago)
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (1 month ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.7.2](https://github.com/gowebly/gowebly/releases/tag/v2.7.2), 6 days ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
+- [gowebly/gowebly](https://github.com/gowebly/gowebly) ([v2.7.2](https://github.com/gowebly/gowebly/releases/tag/v2.7.2), 1 week ago) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.11](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.11), 1 month ago) - The hyprland cursor format, library and utilities.
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 2 months ago) - NixOS-like services for Nix flakes
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.7.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.7.1), 2 months ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
