@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 weeks ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 month ago)
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (1 month ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (1 month ago)
@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.0), 1 week ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.0), 2 weeks ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.11](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.11), 2 months ago) - The hyprland cursor format, library and utilities.
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 2 months ago) - NixOS-like services for Nix flakes
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 4 months ago) - Ziti SSH
