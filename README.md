@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.12](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.12), 2 days ago) - The hyprland cursor format, library and utilities.
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.12](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.12), 3 days ago) - The hyprland cursor format, library and utilities.
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.0), 1 month ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 3 months ago) - NixOS-like services for Nix flakes
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 4 months ago) - Ziti SSH
