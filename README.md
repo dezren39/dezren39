@@ -19,8 +19,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.1), 4 days ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.12](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.12), 3 weeks ago) - The hyprland cursor format, library and utilities.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.1), 5 days ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.12](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.12), 4 weeks ago) - The hyprland cursor format, library and utilities.
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 4 months ago) - NixOS-like services for Nix flakes
 - [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 5 months ago) - Ziti SSH
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 6 months ago) - A complete text editor for your terminal.
