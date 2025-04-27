@@ -4,7 +4,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 month ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 months ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (3 months ago)
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (3 months ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (3 months ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (3 months ago)
