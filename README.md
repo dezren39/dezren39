@@ -5,7 +5,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [dezren39/nix](https://github.com/dezren39/nix) -  (2 months ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (4 months ago)
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (4 months ago)
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (5 months ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (5 months ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (5 months ago)
 
@@ -19,8 +19,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.8.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.8.1), 2 months ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.9.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.9.0), 1 day ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.12](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.12), 3 months ago) - The hyprland cursor format, library and utilities.
 - [juspay/services-flake](https://github.com/juspay/services-flake) ([0.4.0](https://github.com/juspay/services-flake/releases/tag/0.4.0), 6 months ago) - NixOS-like services for Nix flakes
-- [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 7 months ago) - Ziti SSH
+- [openziti-test-kitchen/zssh](https://github.com/openziti-test-kitchen/zssh) ([1.0.15](https://github.com/openziti-test-kitchen/zssh/releases/tag/1.0.15), 8 months ago) - Ziti SSH
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) ([0.7.1](https://github.com/jmacdonald/amp/releases/tag/0.7.1), 8 months ago) - A complete text editor for your terminal.
