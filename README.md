@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (2 weeks ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (2 weeks ago)
