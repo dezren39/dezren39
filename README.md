@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 6 days ago) - The hyprland cursor format, library and utilities.
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 1 week ago) - The hyprland cursor format, library and utilities.
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 3 weeks ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.9.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.9.0), 1 month ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha3-rolling](https://github.com/roc-lang/roc/releases/tag/alpha3-rolling), 5 months ago) - A fast, friendly, functional language.
