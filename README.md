@@ -19,7 +19,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [srid/emanote](https://github.com/srid/emanote) ([1.4.0.0](https://github.com/srid/emanote/releases/tag/1.4.0.0), 3 days ago) - Emanate a structured view of your plain-text notes
+- [srid/emanote](https://github.com/srid/emanote) ([1.4.0.0](https://github.com/srid/emanote/releases/tag/1.4.0.0), 4 days ago) - Emanate a structured view of your plain-text notes
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 3 weeks ago) - The hyprland cursor format, library and utilities.
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 1 month ago)
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.9.0](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.9.0), 2 months ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
