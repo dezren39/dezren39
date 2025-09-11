@@ -23,4 +23,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 2 weeks ago) - A fast, friendly, functional language.
 - [srid/emanote](https://github.com/srid/emanote) ([1.4.0.0](https://github.com/srid/emanote/releases/tag/1.4.0.0), 3 weeks ago) - Emanate a structured view of your plain-text notes
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 1 month ago) - The hyprland cursor format, library and utilities.
-- [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 1 month ago)
+- [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 2 months ago)
