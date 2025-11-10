@@ -7,11 +7,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 {{- end}}
 
 #### 👨‍💻 Repositories I created recently
-{{range recentRepos 5}}
+{{range recentRepos 15}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
 #### 🚀 Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 15}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
