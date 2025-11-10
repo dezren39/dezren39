@@ -18,6 +18,8 @@ jobs:
       -
         name: Checkout
         uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
       -
         uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
         with:
@@ -30,5 +32,7 @@ jobs:
         if: github.event_name != 'pull_request'
         with:
           branch: main
-        env:
-          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+          commit_author: "dezren39-bot <bot@dezren39.dev>"
+          commit_message: "Apply automatic changes"
+          commit_user_name: "dezren39-bot"
+          commit_user_email: "bot@dezren39.dev"
