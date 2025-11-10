@@ -25,6 +25,16 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/zettel](https://github.com/dezren39/zettel)
 - [dezren39/org](https://github.com/dezren39/org)
 - [dezren39/rust](https://github.com/dezren39/rust)
+- [dezren39/for-loop](https://github.com/dezren39/for-loop)
+- [dezren39/HB-DRM-free-bulk-downloader-helper](https://github.com/dezren39/HB-DRM-free-bulk-downloader-helper) - because re-downloading all your humble bundles is a recipe for an RSI injury and this made it even easier for me than the HB downloader by itself.
+- [dezren39/emacs](https://github.com/dezren39/emacs) - yeah, i mean, of course
+- [dezren39/Hotkeys](https://github.com/dezren39/Hotkeys) - mmmmmmmmm hotkeys.
+- [dezren39/ip](https://github.com/dezren39/ip)
+- [dezren39/PoshEnigma](https://github.com/dezren39/PoshEnigma) - An Enigma cipher machine.
+- [dezren39/railsCookbook_dpope3](https://github.com/dezren39/railsCookbook_dpope3)
+- [dezren39/whateveryouwant](https://github.com/dezren39/whateveryouwant)
+- [dezren39/agilesp2018-inclass](https://github.com/dezren39/agilesp2018-inclass)
+- [dezren39/synergy](https://github.com/dezren39/synergy)
 
 #### 🚀 Latest releases I've contributed to
 
@@ -33,3 +43,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([0.20.0](https://github.com/roc-lang/basic-cli/releases/tag/0.20.0), 2 months ago) - A basic Command-Line Interface platform
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 2 months ago) - A fast, friendly, functional language.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 3 months ago) - The hyprland cursor format, library and utilities.
+- [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 4 months ago)
+- [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 years ago)
