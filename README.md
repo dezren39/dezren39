@@ -8,6 +8,15 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (3 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (4 months ago)
+- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (4 months ago)
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (9 months ago)
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (10 months ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]  (10 months ago)
+- [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (10 months ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (11 months ago)
+- [developing-today/static](https://github.com/developing-today/static) -  (11 months ago)
+- [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 &amp; v2 packaged with Nix! (11 months ago)
+- [krebs/nether](https://github.com/krebs/nether) - zerotier network configuration as a NixOS flake (11 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
