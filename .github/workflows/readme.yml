@@ -29,6 +29,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v6
         if: github.event_name != 'pull_request'
         with:
+          commit_user_author: "readme-scribe-bot <readme-scribe-bot@dezren39.dev>"
           commit_user_name: "readme-scribe-bot"
           commit_user_email: "readme-scribe-bot@dezren39.dev"
           branch: main
