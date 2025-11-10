@@ -26,10 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       -
-        uses: stefanzweifel/git-auto-commit-action@a0873a0795991933fedcac591b8736fa2c13d183
+        uses: stefanzweifel/git-auto-commit-action@v6
         if: github.event_name != 'pull_request'
         with:
-          commit_message: 'Update generated README'
+          commit_user_name: "readme-scribe-bot"
+          commit_user_email: "readme-scribe-bot@dezren39.dev"
           branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
