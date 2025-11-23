@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (5 days ago)
+- [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (6 days ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (1 week ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
+- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (2 weeks ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (4 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (4 months ago)
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (4 months ago)
