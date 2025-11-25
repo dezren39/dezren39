@@ -17,7 +17,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (11 months ago)
 - [developing-today/static](https://github.com/developing-today/static) -  (11 months ago)
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) - Affinity v3 &amp; v2 packaged with Nix!  [maintainer=@mrshmllow] (1 year ago)
-- [krebs/nether](https://github.com/krebs/nether) - zerotier network configuration as a NixOS flake (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
