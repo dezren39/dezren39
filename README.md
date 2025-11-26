@@ -3,6 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
+- [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (1 day ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (1 week ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
@@ -38,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.10.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.10.1), 1 week ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.10.1](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.10.1), 2 weeks ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [mrshmllow/affinity-nix](https://github.com/mrshmllow/affinity-nix) ([affinity-v3](https://github.com/mrshmllow/affinity-nix/releases/tag/affinity-v3), 3 weeks ago) - Affinity v3 &amp; v2 packaged with Nix!  [maintainer=@mrshmllow]
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([0.20.0](https://github.com/roc-lang/basic-cli/releases/tag/0.20.0), 2 months ago) - A basic Command-Line Interface platform
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 3 months ago) - A fast, friendly, functional language.
