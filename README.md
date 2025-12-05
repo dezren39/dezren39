@@ -5,7 +5,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (1 week ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (2 weeks ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 weeks ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (3 weeks ago)
 - [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (3 weeks ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (4 months ago)
