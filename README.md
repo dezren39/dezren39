@@ -6,17 +6,17 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (1 week ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (2 weeks ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (3 weeks ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (3 weeks ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (3 weeks ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 weeks ago)
+- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (4 weeks ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (4 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (4 months ago)
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (5 months ago)
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (10 months ago)
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (10 months ago)
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) - The Piraeus Operator manages LINSTOR clusters in Kubernetes. (11 months ago)
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]  (11 months ago)
 - [sakshatshinde/hyprcursor-themes](https://github.com/sakshatshinde/hyprcursor-themes) - A list of publicly available hyprcursor themes (11 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (11 months ago)
-- [developing-today/static](https://github.com/developing-today/static) -  (11 months ago)
+- [developing-today/static](https://github.com/developing-today/static) -  (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
