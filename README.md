@@ -38,7 +38,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.10.3](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.10.3), 3 days ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
+- [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.10.3](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.10.3), 4 days ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([0.20.0](https://github.com/roc-lang/basic-cli/releases/tag/0.20.0), 3 months ago) - A basic Command-Line Interface platform
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 3 months ago) - A fast, friendly, functional language.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 4 months ago) - The hyprland cursor format, library and utilities.
