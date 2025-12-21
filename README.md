@@ -3,6 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (1 day ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (3 weeks ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (1 month ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 month ago)
@@ -37,6 +38,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 1 day ago) - Swift language bindings presenting Automerge
 - [piraeusdatastore/piraeus-operator](https://github.com/piraeusdatastore/piraeus-operator) ([v2.10.3](https://github.com/piraeusdatastore/piraeus-operator/releases/tag/v2.10.3), 1 week ago) - The Piraeus Operator manages LINSTOR clusters in Kubernetes.
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([0.20.0](https://github.com/roc-lang/basic-cli/releases/tag/0.20.0), 3 months ago) - A basic Command-Line Interface platform
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 3 months ago) - A fast, friendly, functional language.
