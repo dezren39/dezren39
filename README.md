@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (4 weeks ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (1 month ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (1 month ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (2 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (2 months ago)
@@ -36,7 +36,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 🚀 Latest releases I've contributed to
 
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 1 week ago) - A basic Command-Line Interface platform
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 4 weeks ago) - Swift language bindings presenting Automerge
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 1 month ago) - Swift language bindings presenting Automerge
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 4 months ago) - A fast, friendly, functional language.
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) ([v0.1.13](https://github.com/hyprwm/hyprcursor/releases/tag/v0.1.13), 5 months ago) - The hyprland cursor format, library and utilities.
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 6 months ago)
