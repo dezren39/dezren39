@@ -3,12 +3,12 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (1 month ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (1 month ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (2 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (2 months ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 months ago)
 - [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (2 months ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (6 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (6 months ago)
