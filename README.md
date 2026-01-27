@@ -13,7 +13,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (6 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (6 months ago)
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (6 months ago)
-- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities. (1 year ago)
 
 #### 👨‍💻 Repositories I created recently
 
