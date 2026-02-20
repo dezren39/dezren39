@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (2 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (2 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (3 months ago)
