@@ -4,7 +4,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (5 days ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (2 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (3 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (3 months ago)
@@ -34,7 +34,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 1 month ago) - A basic Command-Line Interface platform
+- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 2 months ago) - A basic Command-Line Interface platform
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 2 months ago) - Swift language bindings presenting Automerge
 - [roc-lang/roc](https://github.com/roc-lang/roc) ([alpha4-rolling](https://github.com/roc-lang/roc/releases/tag/alpha4-rolling), 6 months ago) - A fast, friendly, functional language.
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) ([v0.2.0](https://github.com/imclerran/roc-reduce/releases/tag/v0.2.0), 7 months ago)
