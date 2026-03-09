@@ -3,15 +3,15 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (6 days ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (2 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (3 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (3 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (3 months ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (3 months ago)
+- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (4 months ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (7 months ago)
-- [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (7 months ago)
+- [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (8 months ago)
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (8 months ago)
 
 #### 👨‍💻 Repositories I created recently
