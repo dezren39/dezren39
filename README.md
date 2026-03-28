@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (2 days ago)
-- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (4 days ago)
-- [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (4 days ago)
+- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (5 days ago)
+- [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (5 days ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (3 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (4 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (4 months ago)
