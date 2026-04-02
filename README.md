@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (3 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (2 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [dabiggm0e/autoresearch-opencode](https://github.com/dabiggm0e/autoresearch-opencode) -  (1 week ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (1 week ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (1 week ago)
@@ -16,7 +16,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (4 months ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (8 months ago)
 - [imclerran/roc-reduce](https://github.com/imclerran/roc-reduce) -  (8 months ago)
-- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (8 months ago)
+- [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) - A basic Command-Line Interface platform (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -38,7 +38,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 1 day ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 2 days ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [pubky/mainline](https://github.com/pubky/mainline) ([v6.1.1](https://github.com/pubky/mainline/releases/tag/v6.1.1), 1 month ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 2 months ago) - A basic Command-Line Interface platform
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 3 months ago) - Swift language bindings presenting Automerge
