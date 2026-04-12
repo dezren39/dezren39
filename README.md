@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (5 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 days ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (1 week ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [dabiggm0e/autoresearch-opencode](https://github.com/dabiggm0e/autoresearch-opencode) -  (2 weeks ago)
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 5 days ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 6 days ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [pubky/mainline](https://github.com/pubky/mainline) ([v6.1.1](https://github.com/pubky/mainline/releases/tag/v6.1.1), 2 months ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 3 months ago) - A basic Command-Line Interface platform
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 3 months ago) - Swift language bindings presenting Automerge
