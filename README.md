@@ -3,11 +3,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (2 days ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (5 days ago)
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (3 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (5 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (6 days ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (1 week ago)
-- [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (1 week ago)
+- [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (2 weeks ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (3 weeks ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (3 weeks ago)
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.22](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.22), 6 days ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.22](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.22), 1 week ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 1 week ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 2 months ago) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [pubky/mainline](https://github.com/pubky/mainline) ([v6.1.1](https://github.com/pubky/mainline/releases/tag/v6.1.1), 2 months ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
