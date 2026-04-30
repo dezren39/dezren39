@@ -11,7 +11,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [developing-today/code](https://github.com/developing-today/code) -  (3 weeks ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (1 month ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (1 month ago)
-- [dabiggm0e/autoresearch-opencode](https://github.com/dabiggm0e/autoresearch-opencode) -  (1 month ago)
+- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (1 month ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (4 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (5 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (5 months ago)
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [pubky/mainline](https://github.com/pubky/mainline) ([v6.1.2](https://github.com/pubky/mainline/releases/tag/v6.1.2), 1 day ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
+- [pubky/mainline](https://github.com/pubky/mainline) ([v6.1.2](https://github.com/pubky/mainline/releases/tag/v6.1.2), 2 days ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.22](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.22), 2 weeks ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 3 weeks ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 2 months ago) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
