@@ -16,7 +16,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (5 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (5 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (5 months ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (5 months ago)
+- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (6 months ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
