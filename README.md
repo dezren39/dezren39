@@ -3,10 +3,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (1 month ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (1 month ago)
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (1 month ago)
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (2 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (2 months ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (2 months ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (2 months ago)
@@ -39,9 +39,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [pubky/mainline](https://github.com/pubky/mainline) ([v6.2.0](https://github.com/pubky/mainline/releases/tag/v6.2.0), 1 week ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
+- [pubky/mainline](https://github.com/pubky/mainline) ([v6.2.0](https://github.com/pubky/mainline/releases/tag/v6.2.0), 2 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.27](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.27), 2 weeks ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 1 month ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 2 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 3 months ago) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 4 months ago) - A basic Command-Line Interface platform
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 5 months ago) - Swift language bindings presenting Automerge
