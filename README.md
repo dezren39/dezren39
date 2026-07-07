@@ -16,7 +16,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (7 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (7 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (7 months ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (7 months ago)
+- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (8 months ago)
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. (11 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -39,8 +39,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.28](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.28), 1 week ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
-- [pubky/mainline](https://github.com/pubky/mainline) ([v7.0.0](https://github.com/pubky/mainline/releases/tag/v7.0.0), 3 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.2.28](https://github.com/rohoswagger/ez-stack/releases/tag/v0.2.28), 2 weeks ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
+- [pubky/mainline](https://github.com/pubky/mainline) ([v7.0.0](https://github.com/pubky/mainline/releases/tag/v7.0.0), 4 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 3 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 4 months ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [roc-lang/basic-cli](https://github.com/roc-lang/basic-cli) ([alpha-0](https://github.com/roc-lang/basic-cli/releases/tag/alpha-0), 6 months ago) - A basic Command-Line Interface platform
