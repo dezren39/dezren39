@@ -4,8 +4,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 #### 👷 Check out what I'm currently working on
 
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
-- [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (1 week ago)
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (3 months ago)
+- [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 weeks ago)
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (4 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (4 months ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (4 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (4 months ago)
@@ -16,7 +16,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (7 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (8 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (8 months ago)
-- [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (8 months ago)
+- [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (9 months ago)
 - [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.3](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.3), 1 day ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 1 day ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.0](https://github.com/pubky/mainline/releases/tag/v8.0.0), 1 week ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.0](https://github.com/vtemian/octto/releases/tag/v0.4.0), 1 week ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 4 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
