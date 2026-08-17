@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 weeks ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (4 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (4 months ago)
@@ -13,7 +13,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (4 months ago)
 - [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (4 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (4 months ago)
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (7 months ago)
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (8 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (8 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (9 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (9 months ago)
@@ -39,10 +39,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 4 days ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
+- [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 5 days ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.0](https://github.com/pubky/mainline/releases/tag/v8.0.0), 1 week ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.0](https://github.com/vtemian/octto/releases/tag/v0.4.0), 2 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 4 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 6 months ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 7 months ago) - Swift language bindings presenting Automerge
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 8 months ago) - Swift language bindings presenting Automerge
 - [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 years ago)
