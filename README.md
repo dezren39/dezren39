@@ -3,7 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
+- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 day ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 week ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (1 month ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (4 months ago)
@@ -17,7 +18,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (9 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (9 months ago)
 - [rustonbsd/distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) - automagically find peers interested in a topic &#43; optional iroh-gossip integration (9 months ago)
-- [dezren39/theme-store](https://github.com/dezren39/theme-store) -  (9 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
