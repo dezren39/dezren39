@@ -3,9 +3,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
-- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (4 days ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (4 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
+- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (5 days ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (1 month ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (4 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (4 months ago)
