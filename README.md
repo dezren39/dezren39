@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (5 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (6 days ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 week ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 week ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (1 month ago)
