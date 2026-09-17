@@ -3,7 +3,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 weeks ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (2 weeks ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (2 weeks ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (1 month ago)
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.4](https://github.com/vtemian/octto/releases/tag/v0.4.4), 5 days ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
+- [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.4](https://github.com/vtemian/octto/releases/tag/v0.4.4), 6 days ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 1 month ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.0](https://github.com/pubky/mainline/releases/tag/v8.0.0), 1 month ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 5 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
