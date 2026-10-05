@@ -3,8 +3,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (2 days ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 days ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (4 days ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 week ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 month ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 months ago)
@@ -39,7 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 4 days ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
+- [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 5 days ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 1 week ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 1 month ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 6 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
