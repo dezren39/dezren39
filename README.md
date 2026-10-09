@@ -3,13 +3,13 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (4 days ago)
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (1 week ago)
-- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 week ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (1 month ago)
+- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (2 weeks ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 months ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (5 months ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (5 months ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 months ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (6 months ago)
 - [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (6 months ago)
