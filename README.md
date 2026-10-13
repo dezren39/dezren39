@@ -17,7 +17,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (6 months ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (9 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (10 months ago)
-- [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (10 months ago)
+- [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (11 months ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -39,6 +39,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly-next](https://github.com/manaflow-ai/cmux/releases/tag/nightly-next), 1 week ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 1 week ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 2 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 2 months ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
