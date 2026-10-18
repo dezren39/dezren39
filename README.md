@@ -12,8 +12,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 months ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (6 months ago)
-- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (6 months ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (6 months ago)
+- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (6 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (6 months ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (10 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (10 months ago)
@@ -43,6 +43,5 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 3 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 2 months ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 6 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ([nightly](https://github.com/manaflow-ai/cmux/releases/tag/nightly), 8 months ago) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 10 months ago) - Swift language bindings presenting Automerge
 - [developing-today/code](https://github.com/developing-today/code) ([v1.2.7](https://github.com/developing-today/code/releases/tag/v1.2.7), 2 years ago)
