@@ -1,7 +1,8 @@
-### Hi there 👋 i liek code
+# Hi there 👋 i liek code
+
 most of my code is in private repos sorry not sorry git commit graphs aren't real they don't exist a myth passed down from upstream
 
-#### 👷 Check out what I'm currently working on
+## 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
@@ -19,7 +20,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (10 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (11 months ago)
 
-#### 👨‍💻 Repositories I created recently
+## 👨‍💻 Repositories I created recently
 
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config
 - [dezren39/theme-store](https://github.com/dezren39/theme-store)
@@ -37,7 +38,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/railsCookbook_dpope3](https://github.com/dezren39/railsCookbook_dpope3)
 - [dezren39/whateveryouwant](https://github.com/dezren39/whateveryouwant)
 
-#### 🚀 Latest releases I've contributed to
+## 🚀 Latest releases I've contributed to
 
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 2 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 3 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
