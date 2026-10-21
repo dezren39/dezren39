@@ -12,11 +12,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 months ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (6 months ago)
-- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (7 months ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (7 months ago)
+- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (7 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (7 months ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (10 months ago)
-- [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (10 months ago)
+- [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (11 months ago)
 - [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (11 months ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -39,8 +39,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 #### 🚀 Latest releases I've contributed to
 
-- [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 2 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
-- [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 3 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
+- [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 3 weeks ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
+- [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 4 weeks ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 2 months ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 6 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 10 months ago) - Swift language bindings presenting Automerge
