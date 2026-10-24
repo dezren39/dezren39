@@ -1,17 +1,17 @@
-### Hi there 👋 i liek code
+## Hi there 👋 i liek code
 most of my code is in private repos sorry not sorry git commit graphs aren't real they don't exist a myth passed down from upstream
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 {{range recentContributions 15}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 👨‍💻 Repositories I created recently
+### 👨‍💻 Repositories I created recently
 {{range recentRepos 15}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
-#### 🚀 Latest releases I've contributed to
+### 🚀 Latest releases I've contributed to
 {{range recentReleases 15}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
