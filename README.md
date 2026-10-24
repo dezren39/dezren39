@@ -4,8 +4,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 👷 Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (today)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (today)
+- [developing-today/code](https://github.com/developing-today/code) -  (today)
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (4 weeks ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 months ago)
@@ -13,12 +14,11 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 months ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (6 months ago)
-- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (7 months ago)
 - [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (7 months ago)
+- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (7 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (7 months ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (10 months ago)
 - [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (11 months ago)
-- [zicklag/blog](https://github.com/zicklag/blog) - @Zicklag&#39;s Blog (11 months ago)
 
 ## 👨‍💻 Repositories I created recently
 
