@@ -4,9 +4,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 👷 Check out what I'm currently working on
 
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 day ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 days ago)
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 month ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 months ago)
@@ -22,6 +22,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 👨‍💻 Repositories I created recently
 
+- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet.
 - [dezren39/hatch-drawer](https://github.com/dezren39/hatch-drawer) - Chunk drawer: bulk/binary overflow shelf paired with dezren39/hatch — files too chunky for the main repo, each under GitHub&#39;s 100 MB per-file limit.
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config
 - [dezren39/theme-store](https://github.com/dezren39/theme-store)
@@ -36,7 +37,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/Hotkeys](https://github.com/dezren39/Hotkeys) - mmmmmmmmm hotkeys.
 - [dezren39/ip](https://github.com/dezren39/ip)
 - [dezren39/PoshEnigma](https://github.com/dezren39/PoshEnigma) - An Enigma cipher machine.
-- [dezren39/railsCookbook_dpope3](https://github.com/dezren39/railsCookbook_dpope3)
 
 ## 🚀 Latest releases I've contributed to
 
