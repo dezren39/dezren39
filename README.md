@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 days ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (3 days ago)
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 month ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (2 months ago)
