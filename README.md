@@ -4,9 +4,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 👷 Check out what I'm currently working on
 
-- [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
+- [dezren39/nix](https://github.com/dezren39/nix) -  (today)
+- [developing-today/code](https://github.com/developing-today/code) -  (today)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 day ago)
-- [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (3 days ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (6 days ago)
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (4 weeks ago)
