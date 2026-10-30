@@ -1,0 +1,66 @@
+# Single home for this repo's dispatch-scheduled agents, replacing the
+# retired Jules scheduled tasks and Suggestions.
+# Times are America/Chicago converted from CDT: tasks (bolt/palette) run
+# at 00:00 local (05:00 UTC, cron "0 5 * * *") and suggestions at 13:00
+# local (18:00 UTC, cron "0 18 * * *"). GitHub cron is UTC-only, so during
+# CST the local fire time shifts one hour earlier.
+# Prompts live in the central library in developing-today/code's
+# pm-dispatch-task action; this workflow only dispatches tasks by name.
+
+name: Agents
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "Task to dispatch"
+        required: true
+        type: choice
+        default: all
+        options:
+          - all
+          - bolt
+          - palette
+          - suggestions
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: bolt
+        id: bolt
+        if: (github.event_name == 'schedule' && github.event.schedule == '0 5 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'bolt'))
+        uses: developing-today/code/.github/actions/pm-dispatch-task@main
+        with:
+          task: bolt
+      - name: palette
+        id: palette
+        if: (github.event_name == 'schedule' && github.event.schedule == '0 5 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'palette'))
+        uses: developing-today/code/.github/actions/pm-dispatch-task@main
+        with:
+          task: palette
+      - name: suggestions
+        id: suggestions
+        if: (github.event_name == 'schedule' && github.event.schedule == '0 18 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'suggestions'))
+        uses: developing-today/code/.github/actions/pm-dispatch-task@main
+        with:
+          task: suggestions
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo "## pm-dispatch"
+            echo ""
+            echo "| Task | task_id | session_id | issue_number | issue_url |"
+            echo "| --- | --- | --- | --- | --- |"
+            echo "| bolt | ${{ steps.bolt.outputs.task_id }} | ${{ steps.bolt.outputs.session_id }} | ${{ steps.bolt.outputs.issue_number }} | ${{ steps.bolt.outputs.issue_url }} |"
+            echo "| palette | ${{ steps.palette.outputs.task_id }} | ${{ steps.palette.outputs.session_id }} | ${{ steps.palette.outputs.issue_number }} | ${{ steps.palette.outputs.issue_url }} |"
+            echo "| suggestions | ${{ steps.suggestions.outputs.task_id }} | ${{ steps.suggestions.outputs.session_id }} | ${{ steps.suggestions.outputs.issue_number }} | ${{ steps.suggestions.outputs.issue_url }} |"
+          } >> "$GITHUB_STEP_SUMMARY"
