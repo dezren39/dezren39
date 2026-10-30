@@ -1,11 +1,13 @@
-# Single home for this repo's dispatch-scheduled agents, replacing the
+# Thin caller for this repo's dispatch-scheduled agents, replacing the
 # retired Jules scheduled tasks and Suggestions.
-# Times are America/Chicago converted from CDT: tasks (bolt/palette) run
-# at 00:00 local (05:00 UTC, cron "0 5 * * *") and suggestions at 13:00
-# local (18:00 UTC, cron "0 18 * * *"). GitHub cron is UTC-only, so during
-# CST the local fire time shifts one hour earlier.
-# Prompts live in the central library in developing-today/code's
-# pm-dispatch-task action; this workflow only dispatches tasks by name.
+# This file is only a caller: the task list, slot table, and prompts live
+# centrally in developing-today/code — in the reusable workflow
+# .github/workflows/pm-scheduled.yml and the pm-dispatch-task prompt
+# library.
+# Times are America/Chicago converted from CDT: tasks run at 00:00 local
+# (05:00 UTC, cron "0 5 * * *") and suggestions at 13:00 local (18:00 UTC,
+# cron "0 18 * * *"). GitHub cron is UTC-only, so during CST the local
+# fire time shifts one hour earlier.
 
 name: Agents
 
@@ -32,35 +34,13 @@ permissions:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
-    steps:
-      - name: bolt
-        id: bolt
-        if: (github.event_name == 'schedule' && github.event.schedule == '0 5 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'bolt'))
-        uses: developing-today/code/.github/actions/pm-dispatch-task@main
-        with:
-          task: bolt
-      - name: palette
-        id: palette
-        if: (github.event_name == 'schedule' && github.event.schedule == '0 5 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'palette'))
-        uses: developing-today/code/.github/actions/pm-dispatch-task@main
-        with:
-          task: palette
-      - name: suggestions
-        id: suggestions
-        if: (github.event_name == 'schedule' && github.event.schedule == '0 18 * * *') || (github.event_name == 'workflow_dispatch' && (inputs.task == 'all' || inputs.task == 'suggestions'))
-        uses: developing-today/code/.github/actions/pm-dispatch-task@main
-        with:
-          task: suggestions
-      - name: Summary
-        if: always()
-        run: |
-          {
-            echo "## pm-dispatch"
-            echo ""
-            echo "| Task | task_id | session_id | issue_number | issue_url |"
-            echo "| --- | --- | --- | --- | --- |"
-            echo "| bolt | ${{ steps.bolt.outputs.task_id }} | ${{ steps.bolt.outputs.session_id }} | ${{ steps.bolt.outputs.issue_number }} | ${{ steps.bolt.outputs.issue_url }} |"
-            echo "| palette | ${{ steps.palette.outputs.task_id }} | ${{ steps.palette.outputs.session_id }} | ${{ steps.palette.outputs.issue_number }} | ${{ steps.palette.outputs.issue_url }} |"
-            echo "| suggestions | ${{ steps.suggestions.outputs.task_id }} | ${{ steps.suggestions.outputs.session_id }} | ${{ steps.suggestions.outputs.issue_number }} | ${{ steps.suggestions.outputs.issue_url }} |"
-          } >> "$GITHUB_STEP_SUMMARY"
+    uses: developing-today/code/.github/workflows/pm-scheduled.yml@main
+    permissions:
+      id-token: write
+      contents: read
+    with:
+      schedule: ${{ github.event.schedule }}
+      # Empty on schedule events (no inputs) and for the 'all' selector,
+      # which lets the central workflow run its full slot for the cron;
+      # a specific manual pick passes just that task name.
+      tasks: ${{ inputs.task != 'all' && inputs.task || '' }}
