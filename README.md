@@ -6,19 +6,19 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (1 day ago)
 - [dezren39/nix](https://github.com/dezren39/nix) -  (1 day ago)
+- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [developing-today/zettel](https://github.com/developing-today/zettel) -  (3 days ago)
-- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (4 days ago)
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (6 days ago)
+- [developing-today/zettel](https://github.com/developing-today/zettel) -  (4 days ago)
+- [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (5 days ago)
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (1 week ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (3 months ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (6 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (6 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) -  (7 months ago)
-- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (7 months ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) -  (7 months ago)
+- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) -  (7 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (7 months ago)
 - [automerge/automerge-swift](https://github.com/automerge/automerge-swift) - Swift language bindings presenting Automerge (10 months ago)
-- [n0-computer/iroh.computer](https://github.com/n0-computer/iroh.computer) - iroh website (11 months ago)
 
 ## 👨‍💻 Repositories I created recently
 
@@ -40,7 +40,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 🚀 Latest releases I've contributed to
 
-- [developing-today/code](https://github.com/developing-today/code) ([mcpx/v0.1.0](https://github.com/developing-today/code/releases/tag/mcpx/v0.1.0), 3 days ago)
+- [developing-today/code](https://github.com/developing-today/code) ([mcpx/v0.1.0](https://github.com/developing-today/code/releases/tag/mcpx/v0.1.0), 4 days ago)
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 1 month ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 1 month ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 2 months ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
