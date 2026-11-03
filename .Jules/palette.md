@@ -1,0 +1,5 @@
+# Palette's Journal
+
+## 2026-11-03 - readme-scribe template conditional description pattern
+**Learning:** In profile repositories rendered with muesli/readme-scribe, repository descriptions in `templates/README.md.tpl` can be empty strings. Static delimiters such as `- {{.Repo.Description}}` produce dangling hyphens, extra whitespace, and inconsistent punctuation when descriptions are absent. Using Go template conditional blocks (`{{ with .Repo.Description }} - {{.}}{{ end }}`) avoids empty text artifacts for both screen readers and visual display. Furthermore, automated workflow runs (`readme-scribe` scheduled jobs) periodically overwrite `README.md` with rendered templates, so template fixes remain pending until existing draft PRs (#20, #17, #16, #15) are merged or reviewed.
+**Action:** When working on readme-scribe templates, ensure all optional metadata fields (like descriptions) use Go template conditionals (`{{ with ... }}`) and verify whether outstanding PRs already address template rendering before introducing redundant changes.
