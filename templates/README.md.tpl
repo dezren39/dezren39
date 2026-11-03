@@ -4,7 +4,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## 👷 Check out what I'm currently working on
 {{range recentContributions 15}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{.}}{{ end }} ({{humanize .OccurredAt}})
 {{- end}}
 
 ## 👨‍💻 Repositories I created recently
