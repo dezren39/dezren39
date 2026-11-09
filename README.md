@@ -6,9 +6,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) -  (1 day ago)
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [developing-today/nix-cache](https://github.com/developing-today/nix-cache) - Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (2 days ago)
-- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (2 days ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (2 days ago)
+- [developing-today/nix-cache](https://github.com/developing-today/nix-cache) - Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (3 days ago)
+- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (3 days ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 days ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (1 week ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) -  (1 week ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (1 week ago)
