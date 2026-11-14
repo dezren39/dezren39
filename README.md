@@ -6,7 +6,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
 - [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) -  (1 day ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (1 day ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (2 days ago)
 - [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 week ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache) - Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (1 week ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 weeks ago)
