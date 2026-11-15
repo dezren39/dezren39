@@ -5,8 +5,8 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 ## 👷 Check out what I'm currently working on
 
 - [developing-today/code](https://github.com/developing-today/code) -  (1 day ago)
-- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) -  (1 day ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (2 days ago)
+- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) -  (2 days ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (3 days ago)
 - [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 week ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache) - Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (1 week ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) -  (2 weeks ago)
@@ -45,4 +45,4 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.4.5](https://github.com/vtemian/octto/releases/tag/v0.4.5), 1 month ago) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 3 months ago) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 7 months ago) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
-- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 10 months ago) - Swift language bindings presenting Automerge
+- [automerge/automerge-swift](https://github.com/automerge/automerge-swift) ([0.7.2](https://github.com/automerge/automerge-swift/releases/tag/0.7.2), 11 months ago) - Swift language bindings presenting Automerge
