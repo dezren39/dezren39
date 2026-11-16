@@ -1,8 +1,8 @@
-# Hi there 👋 i liek code
+# Hi there <span aria-hidden="true">👋</span> i liek code
 
 most of my code is in private repos sorry not sorry git commit graphs aren't real they don't exist a myth passed down from upstream
 
-## 👷 Check out what I'm currently working on
+## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
 - [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (today)
 - [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (today)
@@ -20,7 +20,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) (7 months ago)
 - [pubky/mainline](https://github.com/pubky/mainline) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation (7 months ago)
 
-## 👨‍💻 Repositories I created recently
+## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 
 - [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet.
 - [dezren39/hatch-drawer](https://github.com/dezren39/hatch-drawer) - Chunk drawer: bulk/binary overflow shelf paired with dezren39/hatch — files too chunky for the main repo, each under GitHub&#39;s 100 MB per-file limit.
@@ -38,7 +38,7 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [dezren39/ip](https://github.com/dezren39/ip)
 - [dezren39/PoshEnigma](https://github.com/dezren39/PoshEnigma) - An Enigma cipher machine.
 
-## 🚀 Latest releases I've contributed to
+## <span aria-hidden="true">🚀</span> Latest releases I've contributed to
 
 - [developing-today/code](https://github.com/developing-today/code) ([mcpx/v0.1.0](https://github.com/developing-today/code/releases/tag/mcpx/v0.1.0), 2 weeks ago)
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 1 month ago) - Simple, robust, BitTorrent&#39;s Mainline DHT implementation
