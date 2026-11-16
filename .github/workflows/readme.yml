@@ -14,6 +14,14 @@ on:
     branches:
       - 'main'
 
+# Generation is idempotent (it always rewrites README.md from the template),
+# so a newer run can safely supersede an older one. Without this, an overlapping
+# manual dispatch or template push queues a second identical run that repeats
+# the same GitHub queries and races the first to commit the same file.
+concurrency:
+  group: readme-scribe-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   readme-scribe:
     runs-on: ubuntu-latest
