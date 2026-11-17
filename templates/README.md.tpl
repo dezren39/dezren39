@@ -4,15 +4,15 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 {{range recentContributions 15}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }} - {{.}}{{ end }} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{ with .Repo.Description }}<span aria-hidden="true"> - </span>{{.}}{{ end }} ({{humanize .OccurredAt}})
 {{- end}}
 
 ## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 {{range recentRepos 15}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+- [{{.Name}}]({{.URL}}){{ with .Description }}<span aria-hidden="true"> - </span>{{.}}{{ end }}
 {{- end}}
 
 ## <span aria-hidden="true">🚀</span> Latest releases I've contributed to
 {{range recentReleases 15}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }}<span aria-hidden="true"> - </span>{{.}}{{ end }}
 {{- end}}
