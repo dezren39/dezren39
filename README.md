@@ -5,13 +5,13 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
 - [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (today)
-- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (today)
 - [developing-today/code](https://github.com/developing-today/code) (today)
-- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (today)
+- [dezren39/fleet](https://github.com/dezren39/fleet) - Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 day ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch) - hatch home directory - tools, docs, and config (1 day ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache) - Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (1 week ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) (2 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) (2 weeks ago)
-- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (2 weeks ago)
+- [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) - OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (3 weeks ago)
 - [vtemian/octto](https://github.com/vtemian/octto) - Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (3 months ago)
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) - The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (7 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (7 months ago)
