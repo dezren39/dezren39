@@ -4,10 +4,10 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
-- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (today)
-- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (today)
 - [developing-today/code](https://github.com/developing-today/code) (today)
-- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (1 day ago)
+- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (1 day ago)
+- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 day ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (2 days ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache)<span aria-hidden="true"> - </span>Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (1 week ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) (2 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) (2 weeks ago)
@@ -16,9 +16,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack)<span aria-hidden="true"> - </span>The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI (7 months ago)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<span aria-hidden="true"> - </span>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (7 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) (7 months ago)
-- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) (7 months ago)
-- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) (7 months ago)
-- [pubky/mainline](https://github.com/pubky/mainline)<span aria-hidden="true"> - </span>Simple, robust, BitTorrent&#39;s Mainline DHT implementation (7 months ago)
+- [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) (8 months ago)
+- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) (8 months ago)
+- [pubky/mainline](https://github.com/pubky/mainline)<span aria-hidden="true"> - </span>Simple, robust, BitTorrent&#39;s Mainline DHT implementation (8 months ago)
 
 ## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 
