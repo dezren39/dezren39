@@ -4,10 +4,12 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
-- [developing-today/code](https://github.com/developing-today/code) (today)
-- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (3 days ago)
-- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (4 days ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (5 days ago)
+- [developing-today/code](https://github.com/developing-today/code) (1 day ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent (1 day ago)
+- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18 (1 day ago)
+- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (4 days ago)
+- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (5 days ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (6 days ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache)<span aria-hidden="true"> - </span>Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (2 weeks ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) (3 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) (3 weeks ago)
@@ -17,8 +19,6 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)<span aria-hidden="true"> - </span>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. (7 months ago)
 - [developing-today-forks/octto](https://github.com/developing-today-forks/octto) (7 months ago)
 - [n0-computer/docs.iroh.computer](https://github.com/n0-computer/docs.iroh.computer) (8 months ago)
-- [moedesux/autoresearch-opencode](https://github.com/moedesux/autoresearch-opencode) (8 months ago)
-- [pubky/mainline](https://github.com/pubky/mainline)<span aria-hidden="true"> - </span>Simple, robust, BitTorrent&#39;s Mainline DHT implementation (8 months ago)
 
 ## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 
@@ -40,8 +40,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">🚀</span> Latest releases I've contributed to
 
-- [vtemian/octto](https://github.com/vtemian/octto) ([v0.5.0](https://github.com/vtemian/octto/releases/tag/v0.5.0), 1 day ago)<span aria-hidden="true"> - </span>Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
-- [developing-today/code](https://github.com/developing-today/code) ([mcpx/v0.1.0](https://github.com/developing-today/code/releases/tag/mcpx/v0.1.0), 3 weeks ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) ([v2.8.0](https://github.com/openchamber/openchamber/releases/tag/v2.8.0), today)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent
+- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src) ([v1.31.1](https://github.com/developing-today-forks/onnxruntime-src/releases/tag/v1.31.1), 1 day ago)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18
+- [vtemian/octto](https://github.com/vtemian/octto) ([v0.5.0](https://github.com/vtemian/octto/releases/tag/v0.5.0), 2 days ago)<span aria-hidden="true"> - </span>Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 1 month ago)<span aria-hidden="true"> - </span>Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 3 months ago)<span aria-hidden="true"> - </span>The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue) ([latest](https://github.com/developing-today/opencode-auto-continue/releases/tag/latest), 7 months ago)<span aria-hidden="true"> - </span>OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur
