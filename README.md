@@ -4,21 +4,21 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
+- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (today)
+- [developing-today-forks/octto](https://github.com/developing-today-forks/octto) (today)
+- [developing-today/zettel](https://github.com/developing-today/zettel) (today)
 - [developing-today/code](https://github.com/developing-today/code) (today)
 - [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (1 day ago)
-- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (1 day ago)
 - [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 day ago)
+- [developing-today/fleet-mirror](https://github.com/developing-today/fleet-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/fleet; managed by infra/github-backup. (2 days ago)
 - [developing-today/code-mirror](https://github.com/developing-today/code-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/code; managed by infra/github-backup. (2 days ago)
 - [developing-today/opencode-mirror](https://github.com/developing-today/opencode-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/opencode; managed by infra/github-backup. (2 days ago)
-- [developing-today/fleet-mirror](https://github.com/developing-today/fleet-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/fleet; managed by infra/github-backup. (2 days ago)
 - [developing-today/openchamber-mirror](https://github.com/developing-today/openchamber-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/openchamber; managed by infra/github-backup. (2 days ago)
 - [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18 (3 days ago)
 - [openchamber/openchamber](https://github.com/openchamber/openchamber)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent (3 days ago)
 - [developing-today/nix-cache](https://github.com/developing-today/nix-cache)<span aria-hidden="true"> - </span>Nix binary cache on Cloudflare: Workers &#43; R2 &#43; KV &#43; D1 &#43; Queues &#43; Cron (2 weeks ago)
-- [developing-today/zettel](https://github.com/developing-today/zettel) (3 weeks ago)
 - [developing-today/hardware-doc](https://github.com/developing-today/hardware-doc) (3 weeks ago)
 - [developing-today/opencode-auto-continue](https://github.com/developing-today/opencode-auto-continue)<span aria-hidden="true"> - </span>OpenCode plugin that auto-sends &#39;continue&#39; when bad request (400) errors occur (4 weeks ago)
-- [vtemian/octto](https://github.com/vtemian/octto)<span aria-hidden="true"> - </span>Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback (3 months ago)
 
 ## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 
