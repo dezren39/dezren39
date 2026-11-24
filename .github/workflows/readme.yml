@@ -26,6 +26,10 @@ on:
       - 'templates/**'
       - '.github/workflows/readme.yml'
 
+# Read-only by default; the job's commit step needs contents: write.
+permissions:
+  contents: read
+
 # Generation is idempotent (it always rewrites README.md from the template),
 # so a newer run can safely supersede an older one. Without this, an overlapping
 # manual dispatch or template push queues a second identical run that repeats
@@ -37,6 +41,8 @@ concurrency:
 jobs:
   readme-scribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # Generator runs finish in ~20s; cap the job so a hung runner or
     # stalled API call can't burn minutes instead of failing fast.
     timeout-minutes: 10
