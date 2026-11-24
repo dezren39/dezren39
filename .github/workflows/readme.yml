@@ -7,12 +7,24 @@ on:
   push:
     branches:
       - 'main'
-    paths-ignore:
-      # The scheduled generator commits only this output; avoid a redundant rerun.
-      - 'README.md'
+    paths:
+      # The generator's output depends only on the template (plus this
+      # workflow itself). Any other push — journal entries (.jules/),
+      # palette files, renovate.json, or the generated README.md itself —
+      # cannot change the output, so skip the run entirely instead of
+      # spending ~20s of runner time plus GitHub API queries on a no-op.
+      # (Note: `paths` and `paths-ignore` cannot be combined; README.md
+      #  is excluded implicitly by not being listed here.)
+      - 'templates/**'
+      - '.github/workflows/readme.yml'
   pull_request:
     branches:
       - 'main'
+    paths:
+      # Same allowlist for PR validation runs: only run the generator
+      # when the PR could actually change its output.
+      - 'templates/**'
+      - '.github/workflows/readme.yml'
 
 # Generation is idempotent (it always rewrites README.md from the template),
 # so a newer run can safely supersede an older one. Without this, an overlapping
@@ -25,6 +37,9 @@ concurrency:
 jobs:
   readme-scribe:
     runs-on: ubuntu-latest
+    # Generator runs finish in ~20s; cap the job so a hung runner or
+    # stalled API call can't burn minutes instead of failing fast.
+    timeout-minutes: 10
     steps:
       -
         name: Checkout
