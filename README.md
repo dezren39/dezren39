@@ -4,21 +4,21 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">👷</span> Check out what I'm currently working on
 
+- [developing-today/code-mirror](https://github.com/developing-today/code-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/code; managed by infra/github-backup. (today)
+- [developing-today/opencode-mirror](https://github.com/developing-today/opencode-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/opencode; managed by infra/github-backup. (today)
+- [developing-today/openchamber-mirror](https://github.com/developing-today/openchamber-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/openchamber; managed by infra/github-backup. (today)
 - [developing-today/code](https://github.com/developing-today/code) (today)
-- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (today)
-- [developing-today/code-mirror](https://github.com/developing-today/code-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/code; managed by infra/github-backup. (1 day ago)
-- [developing-today/opencode-mirror](https://github.com/developing-today/opencode-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/opencode; managed by infra/github-backup. (1 day ago)
-- [developing-today/openchamber-mirror](https://github.com/developing-today/openchamber-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today-forks/openchamber; managed by infra/github-backup. (1 day ago)
-- [developing-today/fleet-mirror](https://github.com/developing-today/fleet-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/fleet; managed by infra/github-backup. (1 day ago)
-- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (1 day ago)
 - [developing-today/zettel](https://github.com/developing-today/zettel) (1 day ago)
-- [developing-today-forks/octto](https://github.com/developing-today-forks/octto) (3 days ago)
-- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot)<span aria-hidden="true"> - </span>robot go reply, be nice :| (3 days ago)
-- [SpongeScribe/SpongeScribeBot](https://github.com/SpongeScribe/SpongeScribeBot)<span aria-hidden="true"> - </span>strangetext transcription, main code at twitter-base/reply-bot plan to split out spongescribe here in a bit (3 days ago)
-- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) (3 days ago)
-- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (4 days ago)
-- [openchamber/openchamber](https://github.com/openchamber/openchamber)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent (6 days ago)
-- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18 (6 days ago)
+- [dezren39/darwin-nix](https://github.com/dezren39/darwin-nix) (1 day ago)
+- [developing-today/fleet-mirror](https://github.com/developing-today/fleet-mirror)<span aria-hidden="true"> - </span>Plain Git mirror of developing-today/fleet; managed by infra/github-backup. (1 day ago)
+- [dezren39/fleet](https://github.com/dezren39/fleet)<span aria-hidden="true"> - </span>Umbrella repo: the developing-today fleet as git submodules, one devcontainer/Codespace (with prebuilds) for the whole fleet. (2 days ago)
+- [developing-today-forks/octto](https://github.com/developing-today-forks/octto) (4 days ago)
+- [developing-today/scoop-developing-today](https://github.com/developing-today/scoop-developing-today) (4 days ago)
+- [SpongeScribe/SpongeScribeBot](https://github.com/SpongeScribe/SpongeScribeBot)<span aria-hidden="true"> - </span>strangetext transcription, main code at twitter-base/reply-bot plan to split out spongescribe here in a bit (4 days ago)
+- [twitter-base/reply-bot](https://github.com/twitter-base/reply-bot)<span aria-hidden="true"> - </span>robot go reply, be nice :| (4 days ago)
+- [dezren39/hatch](https://github.com/dezren39/hatch)<span aria-hidden="true"> - </span>hatch home directory - tools, docs, and config (5 days ago)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent (1 week ago)
+- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18 (1 week ago)
 
 ## <span aria-hidden="true">👨‍💻</span> Repositories I created recently
 
@@ -40,9 +40,9 @@ most of my code is in private repos sorry not sorry git commit graphs aren't rea
 
 ## <span aria-hidden="true">🚀</span> Latest releases I've contributed to
 
-- [openchamber/openchamber](https://github.com/openchamber/openchamber) ([v2.8.1](https://github.com/openchamber/openchamber/releases/tag/v2.8.1), 1 day ago)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent
-- [developing-today/code](https://github.com/developing-today/code) ([pm-console-android-v21776245](https://github.com/developing-today/code/releases/tag/pm-console-android-v21776245), 2 days ago)
-- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src) ([v1.31.1](https://github.com/developing-today-forks/onnxruntime-src/releases/tag/v1.31.1), 6 days ago)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18
+- [developing-today/code](https://github.com/developing-today/code) ([pm-console-android-v21799773](https://github.com/developing-today/code/releases/tag/pm-console-android-v21799773), today)
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) ([v2.8.1](https://github.com/openchamber/openchamber/releases/tag/v2.8.1), 2 days ago)<span aria-hidden="true"> - </span>Agentic Development Environment based on OpenCode AI agent
+- [developing-today-forks/onnxruntime-src](https://github.com/developing-today-forks/onnxruntime-src) ([v1.31.1](https://github.com/developing-today-forks/onnxruntime-src/releases/tag/v1.31.1), 1 week ago)<span aria-hidden="true"> - </span>Source mirror of microsoft/onnxruntime release tarballs (submodules included) for Nix builds; upstream returns 404 since 2026-11-18
 - [vtemian/octto](https://github.com/vtemian/octto) ([v0.5.0](https://github.com/vtemian/octto/releases/tag/v0.5.0), 1 week ago)<span aria-hidden="true"> - </span>Interactive brainstorming UI for OpenCode agents - multi-question forms, decisions, and real-time feedback
 - [pubky/mainline](https://github.com/pubky/mainline) ([v8.0.1](https://github.com/pubky/mainline/releases/tag/v8.0.1), 1 month ago)<span aria-hidden="true"> - </span>Simple, robust, BitTorrent&#39;s Mainline DHT implementation
 - [rohoswagger/ez-stack](https://github.com/rohoswagger/ez-stack) ([v0.3.4](https://github.com/rohoswagger/ez-stack/releases/tag/v0.3.4), 3 months ago)<span aria-hidden="true"> - </span>The Stacked PR CLI for agents - Manage worktrees, atomic PRs, and more all from the CLI
