@@ -34,7 +34,7 @@ permissions:
 
 jobs:
   scheduled:
-    uses: developing-today/code/.github/workflows/pm-scheduled.yml@main
+    uses: developing-today/code/.github/workflows/pm-scheduled.yml@7c9f5958d2e3883c8851e30650a2a9bbd1f3783c # main
     permissions:
       id-token: write
       contents: read
